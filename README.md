@@ -75,4 +75,5 @@ Technical Growth: Implementing the design in Visual Basic deepened our understan
 Iterative Design Value: The hackathon-style approach emphasized the importance of rapid iteration in response to user feedback.
 
 
-Watch the demo video here: https://drive.google.com/file/d/1JlBpyYk3tYmUrWJYxMJB98FQcqfm4qQP/view 
+## Demo Video
+[Watch the demo video]: https://drive.google.com/file/d/1JlBpyYk3tYmUrWJYxMJB98FQcqfm4qQP/view 
