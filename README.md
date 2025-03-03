@@ -41,7 +41,7 @@ Clear feedback mechanisms to minimize errors.
 The Methods Used for Research – and Key Findings:
 
 Primary Research:
-User Testing: Conducted 5 rounds of usability testing with 10 external participants, including users of all experience.
+User Testing: Conducted 5 rounds of usability testing with 10 external participants, including users of all experiences.
 Key Findings:
 Participants preferred a streamlined navigation process.
 Most errors stemmed from ambiguous button labels and unclear workflows.
@@ -73,3 +73,6 @@ Importance of User-Centered Design: User feedback was crucial in shaping a desig
 Collaboration Skills: Leading a team of 4 required clear communication, delegation, and facilitation of ideas, which enhanced teamwork and productivity.
 Technical Growth: Implementing the design in Visual Basic deepened our understanding of bridging the gap between prototyping and functional development.
 Iterative Design Value: The hackathon-style approach emphasized the importance of rapid iteration in response to user feedback.
+
+
+Watch the demo video here: https://drive.google.com/file/d/1JlBpyYk3tYmUrWJYxMJB98FQcqfm4qQP/view 
